@@ -12,6 +12,7 @@
 
 
 [추가하고 싶은 것]
+- gitignore -> secret.json 파일 감추기
 - 지역 검색해서 위도/경도 추출하는 API 이용 (kakao api)
 - 지도 map 이용 (kakao map api)
 - 입력: 검색 bar & 출력: 귀여운 날씨 아이콘(그림) 출력
