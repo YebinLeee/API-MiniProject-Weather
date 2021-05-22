@@ -6,7 +6,7 @@
 
 
 ## [Reference]
-- [공공데이터 포털 - 동네 날씨 조회 데이터 API](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15057682)
+- [공공데이터 포털 - 기상청_동네 날씨 조회 데이터 API](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15057682)
 
 <br>
 
