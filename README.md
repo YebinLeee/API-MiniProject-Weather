@@ -21,8 +21,16 @@
 <img src="https://github.com/YebinLeee/API-MiniProject-Weather/blob/main/img/0523-1400.PNG" width=500>
 <br>
 
-약 16시 7분쯤 Terminal 에서 해당 프로그램을 실행하였을 때, 2시에 업데이트된 자료에 대한 날씨 데이터를 불러 온 것을 확인할 수 있다.
+- 05월 23일 약 16시 7분 실행 -> 14 시에 업데이트된 자료에 대한 날씨 데이터 확인
+<br>
+
+<img src="https://github.com/YebinLeee/API-MiniProject-Weather/blob/main/img/0523-2000.PNG" width=500>
+
+- 05월 23일 약 21시 36분 실행 -> 20 시에 업데이트된 자료에 대한 날씨 데이터 확인 
+
+
 <br><br>
+
 
 ### [추가하고 싶은 것]
 - gitignore -> secret.json 파일 감추기
