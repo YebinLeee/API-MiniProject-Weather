@@ -39,30 +39,33 @@ print('어제의 날짜는', yesterday_date)
 
 # 1일 총 8번 데이터가 업데이트 된다.(0200, 0500, 0800, 1100, 1400, 1700, 2000, 2300)
 # 현재 api를 가져오려는 시점의 이전 시각에 업데이트된 데이터를 base_time, base_date로 설정
-if now.hour<2 or now.hour>23: # 23시~ 2시 사이
+if now.hour<=2 and now.minute <= 10: # 0시~2시 10분 사이
     base_date=yesterday_date # 구하고자 하는 날짜가 어제의 날짜
     base_time="2300"
-elif now.hour<5: # 2시~5시 사이
+elif now.hour<=5 and now.minute<=10: # 2시 10분~5시 10분 사이
     base_date=today_date
     base_time="0200"
-elif now.hour<8: # 5시~8시 사이
+elif now.hour<8 and now.minute<=10: # 5시 10분~8시 10분 사이
     base_date=today_date
     base_time="0500"
-elif now.hour<11: # 8시~11시 사이
+elif now.hour<11 and now.minute<=10: # 8시 10분~11시 10분 사이
     base_date=today_date
     base_time="0800"
-elif now.hour<14: # 11시~14시 사이
+elif now.hour<14 and now.minute<=10: # 11시 10분~14시 10분 사이
     base_date=today_date
     base_time="1100"
-elif now.hour<17: # 14시~17시 사이
+elif now.hour<=17 and now.minute<=10: # 14시 10분~17시 10분 사이
     base_date=today_date
     base_time="1400"
-elif now.hour<20: # 17시~20시 사이
+elif now.hour<=20 and now.minute<=10: # 17시 10분~20시 10분 사이
     base_date=today_date
     base_time="1700" 
-elif now.hour<23: # 20시~23시 사이
+elif now.hour<=23 and now.minute<=10: # 20시 10분~23시 10분 사이
     base_date=today_date
     base_time="2000"
+else: # 23시 10분~00시
+    base_date=today_date
+    base_time="1100"
 
 payload = "serviceKey=" + service_key + "&" +\
     "dataType=json" + "&" +\
