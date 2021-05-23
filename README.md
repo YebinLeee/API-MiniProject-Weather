@@ -11,6 +11,7 @@
 
 ## [Reference]
 - [공공데이터 포털 - 기상청_동네 날씨 조회 데이터 API](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15057682)
+- [tistory blog : ai creator - 날씨 정보 사용 맛집 추천 프로젝트](https://ai-creator.tistory.com/31)
 
 <br>
 <hr>
