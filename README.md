@@ -40,10 +40,12 @@
 <br><br>
 
 
-### [추가하고 싶은 것]
-- gitignore -> secret.json 파일 감추기
-- 지역 검색해서 위도/경도 추출하는 API 이용 (kakao api 또는 googlemaps api의 geocoding 사용)
-- 지도 map 이용 (kakao map api)
-- 입력: 검색 bar & 출력: 귀여운 날씨 아이콘(그림) 출력
-- 미세먼지 데이터 api & 내일 일기예보 데이터
-- 카카오톡 연결 (kakao service api) 
+### [추가 아이디어 / 추가 예정]
+
+- [x] gitignore -> secret.json 파일 감추기
+- [ ] 지역 검색해서 위도/경도 추출하는 API 이용 (kakao api 또는 googlemaps api의 geocoding 사용)
+- [ ] 지도 map 이용 (kakao map api)
+- [ ] 입력: 검색 bar
+- [ ] 출력: 귀여운 날씨 아이콘(그림) 출력
+- [ ] 미세먼지 데이터 api & 내일 일기예보 데이터
+- [ ] 카카오톡 연결 (kakao service api) 
