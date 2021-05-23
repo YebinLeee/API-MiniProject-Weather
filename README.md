@@ -19,7 +19,6 @@
 ### [Terminal 실행]
 
 <img src="https://github.com/YebinLeee/API-MiniProject-Weather/blob/main/img/0523-1400.PNG" width=500>
-<br>
 
 - 05월 23일 약 16시 7분 실행 -> 14 시에 업데이트된 자료에 대한 날씨 데이터 확인
 <br>
