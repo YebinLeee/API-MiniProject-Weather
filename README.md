@@ -1,7 +1,7 @@
 # API-MiniProject-Weather
 ⛅ 공공 open API 활용 - 동네의 날씨 데이터 <br>
 
-위도와 경도 값을 입력하면 해당 지역의 기온과 날씨를 알려준다.
+국내의 특정 지역에 해당하는 예보지점 (x,y) 좌표값을 입력하면 그 동네의 기온과 날씨를 알려준다.
 
 - [설명](https://velog.io/@yebinlee/Python-API-%EC%8B%A4%EC%8A%B5)
 
