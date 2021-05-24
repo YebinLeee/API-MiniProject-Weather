@@ -32,9 +32,9 @@
 
 - 05월 23일 약 23시 06분 실행 -> 20 시에 업데이트된 자료에 대한 날씨 데이터 확인
 
-<img src="https://github.com/YebinLeee/API-MiniProject-Weather/blob/main/img/0523-2300.PNG" width=500>
+<img src="https://github.com/YebinLeee/API-MiniProject-Weather/blob/main/img/0524-2300.PNG" width=500>
 
-- 05월 23일 약 23시 18분 실행 -> 23 시에 업데이트된 자료에 대한 날씨 데이터 확인
+- 05월 24일 약 23시 26분 실행 -> 23 시에 업데이트된 자료에 대한 날씨 데이터 확인
 
 
 <br><br>
