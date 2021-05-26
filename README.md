@@ -36,6 +36,9 @@
 
 - 05월 24일 약 23시 26분 실행 -> 23 시에 업데이트된 자료에 대한 날씨 데이터 확인
 
+<img src="https://github.com/YebinLeee/API-MiniProject-Weather/blob/main/img/0527-0800.PNG" width=500>
+
+- 05월 27일 약 08시 44분 실행 -> 08 시에 업데이트된 자료에 대한 날씨 데이터 확인 (A rainy day ☔️)
 
 <br><br>
 
